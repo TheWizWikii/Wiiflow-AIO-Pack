@@ -3,7 +3,7 @@ Wiiflow Retro Pack
 
 ### Pack inicio AIO
 
-El pack inicial es essencial y viene con todos los archivos para liberar la consola y dejarla totalmente configurada
+El pack inicial de (4,30 GB) es essencial y viene con todos los archivos necesarios para liberar la consola y dejarla totalmente configurada.
 
 Video guia: https://youtu.be/NfHXWGDsL8Q
 
@@ -12,7 +12,7 @@ Descarga: https://mega.nz/file/cxdkiDBQ#LXj4bY4sdvGk6-hiOcfU89VZPegQAysvWGUkruWU
 
 ### AIO Update I
 
-Este Update contiene:
+Este Update de (4,38 GB) contiene:
 - Roms + boxcovers de NES
 - Roms + boxcovers de SNES
 - Roms + boxcovers de GameGear
