@@ -13,14 +13,14 @@ Descarga: https://mega.nz/file/cxdkiDBQ#LXj4bY4sdvGk6-hiOcfU89VZPegQAysvWGUkruWU
 ### AIO Update I
 
 Este Update contiene:
-- Roms de NES
-- Roms de SNES
-- Roms de GameGear
-- Roms de Sega Master System
-- Roms de Game&Watch
-- Roms de CPS1
-- Roms de CPS2
-- Roms de Gameboy
+- Roms + boxcovers de NES
+- Roms + boxcovers de SNES
+- Roms + boxcovers de GameGear
+- Roms + boxcovers de Sega Master System
+- Roms + boxcovers de Game&Watch
+- Roms + boxcovers de CPS1
+- Roms + boxcovers de CPS2
+- Roms + boxcovers de Gameboy
 
 Video: https://youtu.be/la_8keR-zXM
 
