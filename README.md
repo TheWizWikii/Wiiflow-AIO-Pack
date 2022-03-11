@@ -7,7 +7,7 @@ Wiiflow Retro Pack
 
 ### AIO Update I
 
-# Este Update contiene:
+Este Update contiene:
 - Roms de NES
 - Roms de SNES
 - Roms de GameGear
